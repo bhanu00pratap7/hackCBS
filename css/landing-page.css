@@ -21,7 +21,7 @@ h6 {
 header.masthead {
   position: relative;
   background-color: #343a40;
-  background: url("../img/bg-masthead.jpg") no-repeat center center;
+  background: url("../img/landing_background.jpg") no-repeat center center;
   background-size: cover;
   padding-top: 8rem;
   padding-bottom: 8rem;
@@ -127,6 +127,7 @@ footer.footer {
 
 .btn{
   margin-right: 4px !important;
+  width: 104px;
 }
 .navbar-brand{
   font-family: 'Unna', serif;
@@ -140,4 +141,6 @@ footer.footer {
   font-size: 20px;
 }
 
-
+form {
+  display: inline-block;
+}
